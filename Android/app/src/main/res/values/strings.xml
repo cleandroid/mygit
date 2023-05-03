@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="crash_toast_text">Ошибка</string>
+    <string name="label_permissions">Please enable Microphone and Storage permissions.</string>
+</resources>
